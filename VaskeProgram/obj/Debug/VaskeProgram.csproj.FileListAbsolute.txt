@@ -1,0 +1,6 @@
+C:\Users\seba6474\source\repos\H1Del2\VaskeProgram\bin\Debug\VaskeProgram.exe.config
+C:\Users\seba6474\source\repos\H1Del2\VaskeProgram\bin\Debug\VaskeProgram.exe
+C:\Users\seba6474\source\repos\H1Del2\VaskeProgram\bin\Debug\VaskeProgram.pdb
+C:\Users\seba6474\source\repos\H1Del2\VaskeProgram\obj\Debug\VaskeProgram.exe
+C:\Users\seba6474\source\repos\H1Del2\VaskeProgram\obj\Debug\VaskeProgram.pdb
+C:\Users\seba6474\source\repos\H1Del2\VaskeProgram\obj\Debug\VaskeProgram.csprojAssemblyReference.cache

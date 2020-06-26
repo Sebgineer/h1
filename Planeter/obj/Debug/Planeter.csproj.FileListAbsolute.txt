@@ -1,0 +1,6 @@
+C:\Users\seba6474\source\repos\H1Del2\Planeter\bin\Debug\Planeter.exe.config
+C:\Users\seba6474\source\repos\H1Del2\Planeter\bin\Debug\Planeter.exe
+C:\Users\seba6474\source\repos\H1Del2\Planeter\bin\Debug\Planeter.pdb
+C:\Users\seba6474\source\repos\H1Del2\Planeter\obj\Debug\Planeter.csprojAssemblyReference.cache
+C:\Users\seba6474\source\repos\H1Del2\Planeter\obj\Debug\Planeter.exe
+C:\Users\seba6474\source\repos\H1Del2\Planeter\obj\Debug\Planeter.pdb

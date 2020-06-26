@@ -1,0 +1,6 @@
+C:\Users\seba6474\source\repos\H1Del2\FIFO\bin\Debug\FIFO.exe.config
+C:\Users\seba6474\source\repos\H1Del2\FIFO\bin\Debug\FIFO.exe
+C:\Users\seba6474\source\repos\H1Del2\FIFO\bin\Debug\FIFO.pdb
+C:\Users\seba6474\source\repos\H1Del2\FIFO\obj\Debug\FIFO.csprojAssemblyReference.cache
+C:\Users\seba6474\source\repos\H1Del2\FIFO\obj\Debug\FIFO.exe
+C:\Users\seba6474\source\repos\H1Del2\FIFO\obj\Debug\FIFO.pdb

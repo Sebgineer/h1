@@ -1,0 +1,6 @@
+C:\Users\seba6474\source\repos\H1Del2\Animal\bin\Debug\Animal.exe.config
+C:\Users\seba6474\source\repos\H1Del2\Animal\bin\Debug\Animal.exe
+C:\Users\seba6474\source\repos\H1Del2\Animal\bin\Debug\Animal.pdb
+C:\Users\seba6474\source\repos\H1Del2\Animal\obj\Debug\Animal.csprojAssemblyReference.cache
+C:\Users\seba6474\source\repos\H1Del2\Animal\obj\Debug\Animal.exe
+C:\Users\seba6474\source\repos\H1Del2\Animal\obj\Debug\Animal.pdb

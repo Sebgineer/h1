@@ -1,0 +1,6 @@
+C:\Users\seba6474\source\repos\H1Del2\Geomatri\bin\Debug\Geomatri.exe.config
+C:\Users\seba6474\source\repos\H1Del2\Geomatri\bin\Debug\Geomatri.exe
+C:\Users\seba6474\source\repos\H1Del2\Geomatri\bin\Debug\Geomatri.pdb
+C:\Users\seba6474\source\repos\H1Del2\Geomatri\obj\Debug\Geomatri.exe
+C:\Users\seba6474\source\repos\H1Del2\Geomatri\obj\Debug\Geomatri.pdb
+C:\Users\seba6474\source\repos\H1Del2\Geomatri\obj\Debug\Geomatri.csprojAssemblyReference.cache
